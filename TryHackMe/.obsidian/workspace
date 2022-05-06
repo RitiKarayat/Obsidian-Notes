@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "35e7d59a825fef9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "19abfb67ed902414",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Complete Beginner Path/Web/Side Rooms/What The Shell/Shell Stabilization.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20f601127b9d54b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "478304e68da03592",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "269a59f5e07c3ee6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ce764f0d1a57d67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "import pty",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85145ebff3f1e195",
+    "type": "split",
+    "children": [
+      {
+        "id": "46bb06b7cacc091f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cbbcc55cc4bd74b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Complete Beginner Path/Web/Side Rooms/What The Shell/Shell Stabilization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "19abfb67ed902414",
+  "lastOpenFiles": [
+    "Complete Beginner Path/Web/Side Rooms/What The Shell/Shell Stabilization.md",
+    "Ignite/Ignite.md",
+    "Complete Beginner Path/Windows/Active Directory.md",
+    "Complete Beginner Path/Web/Side Rooms/What The Shell/What The Shell.md",
+    "Complete Beginner Path/Web/Side Rooms/What The Shell/WebShells.md",
+    "Complete Beginner Path/Web/Side Rooms/What The Shell/Types of Shells.md",
+    "Complete Beginner Path/Web/Side Rooms/What The Shell/Socat.md",
+    "Complete Beginner Path/Web/Side Rooms/What The Shell/Practice.md",
+    "Complete Beginner Path/Web/Side Rooms/What The Shell/Common Shell Payloads.md",
+    "Complete Beginner Path/Web/Upload Vulns.md"
+  ]
+}
